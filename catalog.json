@@ -26989,6 +26989,1016 @@
       }
     },
     {
+      "id": "work-027",
+      "revision": 1,
+      "kind": "lessons",
+      "title": "Work sentences 027",
+      "description": "Sentences 651–675 · Short thoughts · gmail",
+      "lessons": [
+        {
+          "ko": "재고충당금까지 고려한 인하 로직은 넥스트 스텝으로 생각하고 있습니다.",
+          "en": "We are thinking of the reduction logic that also takes inventory allowance into account as a next step.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "We are thinking of the reduction logic that also takes invento…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "재고충당금까지 고려한 인하",
+              "en": ""
+            },
+            {
+              "ko": "로직은 넥스트 스텝으로",
+              "en": ""
+            },
+            {
+              "ko": "생각하고 있습니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "재고",
+              "en": "inventory",
+              "note": "Used in both logistics and accounting, as in 재고자산 (inventory on the balance sheet) and 체화재고 (aged, slow-moving stock)."
+            },
+            {
+              "ko": "고려",
+              "en": "consideration",
+              "note": "In deck shorthand, '~ 고려' means 'considering ~' or 'taking ~ into account'."
+            }
+          ]
+        },
+        {
+          "ko": "관련 문의사항은 아래 문의처에 편히 남겨주시길 부탁드립니다.",
+          "en": "Please feel free to leave any related inquiries with the contact below.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "Please feel free to leave any related inquiries with the conta…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "관련 문의사항은 아래",
+              "en": ""
+            },
+            {
+              "ko": "문의처에 편히 남겨주시길",
+              "en": ""
+            },
+            {
+              "ko": "부탁드립니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "부탁",
+              "en": "request",
+              "note": "Almost always appears in 부탁드립니다 (please ...), the standard polite way to close a request in Slack or email."
+            },
+            {
+              "ko": "문의",
+              "en": "inquiry",
+              "note": "Used for questions to another team and for customer inquiries, and 문의드립니다 means 'I have a question'."
+            }
+          ]
+        },
+        {
+          "ko": "판매 가능 / 폐기 대상 구분",
+          "en": "Classification: sellable / to be discarded",
+          "source": "gmail",
+          "register": "label",
+          "title": "Classification: sellable / to be discarded",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "판매 가능 /",
+              "en": ""
+            },
+            {
+              "ko": "폐기 대상 구분",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "판매",
+              "en": "sale",
+              "note": "Refers to the act of selling (판매가 = selling price, 판매수수료 = sales commission), while 매출 is the revenue figure."
+            },
+            {
+              "ko": "가능",
+              "en": "possibility",
+              "note": "Often appears as 가능 여부 (whether it is possible) and 가능성 (likelihood), and 가능하다 is the adjective form."
+            }
+          ]
+        },
+        {
+          "ko": "후보자 접수 즉시 작성 가능",
+          "en": "Can be written up as soon as a candidate is received",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Can be written up as soon as a candidate is received",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "후보자 접수 즉시",
+              "en": ""
+            },
+            {
+              "ko": "작성 가능",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "가능",
+              "en": "possibility",
+              "note": "Often appears as 가능 여부 (whether it is possible) and 가능성 (likelihood), and 가능하다 is the adjective form."
+            },
+            {
+              "ko": "작성",
+              "en": "writing",
+              "note": "Means filling in or drafting a document, form or journal entry, as in 전표 작성."
+            }
+          ]
+        },
+        {
+          "ko": "(출고요청)은 계획 대비 86%로 달성 저조",
+          "en": "(Shipment request) is at 86% of plan, a weak achievement",
+          "source": "gmail",
+          "register": "memo",
+          "title": "(Shipment request) is at 86% of plan, a weak achievement",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "(출고요청)은 계획 대비",
+              "en": ""
+            },
+            {
+              "ko": "86%로 달성 저조",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "대비",
+              "en": "compared with",
+              "note": "Placed after the base of comparison, as in 계획대비 (vs. plan) or 전년 대비 (vs. last year), and a homonym 대비 (對備) means 'preparing for'."
+            },
+            {
+              "ko": "계획",
+              "en": "plan",
+              "note": "In FP&A it also means the plan figure that actuals are measured against, as in 계획 대비 (vs. plan)."
+            }
+          ]
+        },
+        {
+          "ko": "고양점 평당 매출 증대",
+          "en": "Increase sales per pyeong at the Goyang store",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Increase sales per pyeong at the Goyang store",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "고양점 평당 매출 증대",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "매출",
+              "en": "sales",
+              "note": "The revenue line in the P&L, which is smaller than 거래액 (GMV) because third-party sales count only the commission as revenue."
+            },
+            {
+              "ko": "증대",
+              "en": "increase",
+              "note": "A formal noun for goals and results, as in 매출 증대 (revenue growth); more formal than 증가."
+            }
+          ]
+        },
+        {
+          "ko": "고양점부터 월별 관리 /",
+          "en": "Monthly management starting with the Goyang store /",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Monthly management starting with the Goyang store /",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "고양점부터 월별 관리 /",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "관리",
+              "en": "management",
+              "note": "Used broadly for managing or tracking something (재고 관리, 비용 관리) and in 관리비 (management or maintenance fees)."
+            }
+          ]
+        },
+        {
+          "ko": "구분 분석 주제 진행 배경 결과 및 시사점",
+          "en": "Category / Analysis topic / Background / Results and implications",
+          "source": "gmail",
+          "register": "label",
+          "title": "Category / Analysis topic / Background / Results and implications",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "구분 분석 주제",
+              "en": ""
+            },
+            {
+              "ko": "진행 배경 결과",
+              "en": ""
+            },
+            {
+              "ko": "및 시사점",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "진행",
+              "en": "progress",
+              "note": "A very general word for running or doing something (a meeting, project, event), and 진행 중 means 'in progress'."
+            },
+            {
+              "ko": "구분",
+              "en": "distinction",
+              "note": "Used for splitting items into groups and as a table column header meaning 'Type' or 'Category'."
+            }
+          ]
+        },
+        {
+          "ko": "시 *연환산 약 39.5억 CP 개선 효과 예상",
+          "en": "When applied, an annualized CP improvement effect of about KRW 3,950 million is expected*",
+          "source": "gmail",
+          "register": "memo",
+          "title": "When applied, an annualized CP improvement effect of about KRW…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "시 *연환산 약",
+              "en": ""
+            },
+            {
+              "ko": "39.5억 CP 개선",
+              "en": ""
+            },
+            {
+              "ko": "효과 예상",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "개선",
+              "en": "improvement",
+              "note": "Very common in deck titles and goals, as in 이익 개선 (profit improvement) or 효율 개선."
+            },
+            {
+              "ko": "예상",
+              "en": "expectation",
+              "note": "Used for projected figures (예상 금액, 예상 매출) and in 예상되다 (to be expected)."
+            }
+          ]
+        },
+        {
+          "ko": "특히 무신사/무탠다드 오프라인의 달성율이 온라인 대비 낮은 상황입니다.",
+          "en": "In particular, the achievement rate of Musinsa/Mutandard offline is lower than online.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "In particular, the achievement rate of Musinsa/Mutandard offli…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "특히 무신사/무탠다드 오프라인의",
+              "en": ""
+            },
+            {
+              "ko": "달성율이 온라인 대비",
+              "en": ""
+            },
+            {
+              "ko": "낮은 상황입니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "대비",
+              "en": "compared with",
+              "note": "Placed after the base of comparison, as in 계획대비 (vs. plan) or 전년 대비 (vs. last year), and a homonym 대비 (對備) means 'preparing for'."
+            },
+            {
+              "ko": "달성",
+              "en": "achievement (of a target)",
+              "note": "Used with targets and plans, as in 목표 달성 and 달성률 (attainment rate)."
+            }
+          ]
+        },
+        {
+          "ko": "업체 및 비용의 적정성",
+          "en": "Appropriateness of vendors and costs",
+          "source": "gmail",
+          "register": "label",
+          "title": "Appropriateness of vendors and costs",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "업체 및 비용의",
+              "en": ""
+            },
+            {
+              "ko": "적정성",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "비용",
+              "en": "cost",
+              "note": "The general word for cost, often paired with 수익 (revenue), while specific expense accounts end in -비, such as 인건비 or 물류비."
+            },
+            {
+              "ko": "업체",
+              "en": "company",
+              "note": "Neutral word for an outside business, e.g. 입점업체 'sellers on the platform' or 협력업체 'suppliers'."
+            }
+          ]
+        },
+        {
+          "ko": "오늘을 마지막으로 무신사를 떠나게 되어 인사드립니다.",
+          "en": "Today is my last day, as I am leaving Musinsa, so I wanted to say goodbye.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "Today is my last day, as I am leaving Musinsa, so I wanted to…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "오늘을 마지막으로",
+              "en": ""
+            },
+            {
+              "ko": "무신사를 떠나게 되어",
+              "en": ""
+            },
+            {
+              "ko": "인사드립니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "오늘",
+              "en": "today",
+              "note": "In formal writing 금일 is often used instead."
+            },
+            {
+              "ko": "마지막",
+              "en": "last",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "ko": "안녕하세요, 통합 인력관리 솔루션 시프티입니다.",
+          "en": "Hello, this is Shiftee, the integrated workforce management solution.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "Hello, this is Shiftee, the integrated workforce management so…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "안녕하세요, 통합 인력관리",
+              "en": ""
+            },
+            {
+              "ko": "솔루션 시프티입니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "관리",
+              "en": "management",
+              "note": "Used broadly for managing or tracking something (재고 관리, 비용 관리) and in 관리비 (management or maintenance fees)."
+            },
+            {
+              "ko": "통합",
+              "en": "integration",
+              "note": "Merging things into one, e.g. 통합 발주 'combined ordering', while accounting consolidation uses 연결 instead."
+            }
+          ]
+        },
+        {
+          "ko": "무신사스탠다드 오프라인사업 선진영입니다.",
+          "en": "This is Seon Jin-young from Musinsa Standard Offline Business.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "This is Seon Jin-young from Musinsa Standard Offline Business.",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "무신사스탠다드 오프라인사업 선진영입니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "오프라인사업",
+              "en": "offline (store) business",
+              "note": "Also an org unit name, e.g. Musinsa Standard's offline business team that runs physical stores."
+            },
+            {
+              "ko": "영입",
+              "en": "recruiting",
+              "note": "Implies actively bringing someone in (a senior hire, a brand, or a partner such as a curator), unlike routine 채용 (hiring)."
+            }
+          ]
+        },
+        {
+          "ko": "앞으로는 위 리더분들도 메일루프에 꼭 넣어주십시오.",
+          "en": "From now on, please make sure to include the leaders above in the mail loop as well.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "From now on, please make sure to include the leaders above in…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "앞으로는 위 리더분들도",
+              "en": ""
+            },
+            {
+              "ko": "메일루프에 꼭 넣어주십시오.",
+              "en": ""
+            }
+          ],
+          "words": []
+        },
+        {
+          "ko": "목적별 비용 필터로 순영업손익·오프라인 비용 구분 조회 가능",
+          "en": "Purpose-based cost filters make it possible to view net operating profit/loss and offline costs separately",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Purpose-based cost filters make it possible to view net operat…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "목적별 비용 필터로",
+              "en": ""
+            },
+            {
+              "ko": "순영업손익·오프라인 비용 구분",
+              "en": ""
+            },
+            {
+              "ko": "조회 가능",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "비용",
+              "en": "cost",
+              "note": "The general word for cost, often paired with 수익 (revenue), while specific expense accounts end in -비, such as 인건비 or 물류비."
+            },
+            {
+              "ko": "가능",
+              "en": "possibility",
+              "note": "Often appears as 가능 여부 (whether it is possible) and 가능성 (likelihood), and 가능하다 is the adjective form."
+            }
+          ]
+        },
+        {
+          "ko": "재무관리 정대철입니다.",
+          "en": "This is Jeong Dae-cheol from Financial Management.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "This is Jeong Dae-cheol from Financial Management.",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "재무관리 정대철입니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "재무관리",
+              "en": "financial management",
+              "note": "Also used as the name of a finance function or team."
+            }
+          ]
+        },
+        {
+          "ko": "혹시라도 제가 설명이 부족했다면 피드백을 부탁드립니다.",
+          "en": "If my explanation fell short in any way, please give me feedback.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "If my explanation fell short in any way, please give me feedback.",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "혹시라도 제가 설명이",
+              "en": ""
+            },
+            {
+              "ko": "부족했다면 피드백을 부탁드립니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "부탁",
+              "en": "request",
+              "note": "Almost always appears in 부탁드립니다 (please ...), the standard polite way to close a request in Slack or email."
+            },
+            {
+              "ko": "혹시",
+              "en": "by any chance",
+              "note": "Softens a question or request in Slack, as in 혹시 ~ 될까요? 'could you possibly...?'."
+            }
+          ]
+        },
+        {
+          "ko": "(4) 무신사 스탠다드 부산 서면점 - 이전",
+          "en": "(4) Musinsa Standard Busan Seomyeon store - Relocation",
+          "source": "gmail",
+          "register": "label",
+          "title": "(4) Musinsa Standard Busan Seomyeon store - Relocation",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "(4) 무신사 스탠다드",
+              "en": ""
+            },
+            {
+              "ko": "부산 서면점 - 이전",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "이전",
+              "en": "transfer",
+              "note": "移轉 means transfer or relocation (명의이전 'transfer of title'), while the homonym 以前 means 'before', so context decides."
+            }
+          ]
+        },
+        {
+          "ko": "떠앉고 있는 느낌인데..)",
+          "en": "It feels like we're taking it all on ourselves...)",
+          "source": "gmail",
+          "register": "casual",
+          "title": "It feels like we're taking it all on ourselves...)",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "떠앉고 있는 느낌인데..)",
+              "en": ""
+            }
+          ],
+          "words": []
+        },
+        {
+          "ko": "연속성이 안정적으로 유지될 수 있도록 뒷받침할 예정입니다.",
+          "en": "We will provide support so that continuity can be maintained stably.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "We will provide support so that continuity can be maintained s…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "연속성이 안정적으로",
+              "en": ""
+            },
+            {
+              "ko": "유지될 수 있도록",
+              "en": ""
+            },
+            {
+              "ko": "뒷받침할 예정입니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "예정",
+              "en": "scheduled",
+              "note": "Ends many status updates to mean 'will' or 'planned to', as in 반영할 예정입니다 (we will reflect it)."
+            },
+            {
+              "ko": "유지",
+              "en": "maintaining",
+              "note": "Common in reports for holding a level, e.g. 성장세 유지 'sustaining growth', and 유지보수 means maintenance."
+            }
+          ]
+        },
+        {
+          "ko": "점포별로 통제력 낮음",
+          "en": "Low control at the individual store level",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Low control at the individual store level",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "점포별로 통제력 낮음",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "통제",
+              "en": "control",
+              "note": "In internal control (내부통제) documents it means a control procedure; 통제력 = the degree of control someone has."
+            },
+            {
+              "ko": "점포별",
+              "en": "by store",
+              "note": "점포 is the formal word for a store (매장 is more common in speech), and -별 means 'per'."
+            }
+          ]
+        },
+        {
+          "ko": "대훈 님 조직으로부터 아래의 요청 건을 접수했습니다.",
+          "en": "We have received the following request from Daehoon's organization.",
+          "source": "gmail",
+          "register": "formal",
+          "title": "We have received the following request from Daehoon's organiza…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "대훈 님 조직으로부터",
+              "en": ""
+            },
+            {
+              "ko": "아래의 요청 건을",
+              "en": ""
+            },
+            {
+              "ko": "접수했습니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "요청",
+              "en": "request",
+              "note": "More formal and procedural than 부탁, used in 요청드립니다 and for system or approval requests such as 구매요청."
+            },
+            {
+              "ko": "조직",
+              "en": "organization",
+              "note": "Used for an org unit at any level, as in 조직별 인건비 (labor cost by org)."
+            }
+          ]
+        },
+        {
+          "ko": "임대료·관리비 VAT, 카드수수료, 전기·냉난방 등 사용료",
+          "en": "Rent and maintenance fee VAT, card fees, and usage fees such as electricity and heating/cooling",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Rent and maintenance fee VAT, card fees, and usage fees such a…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "임대료·관리비 VAT,",
+              "en": ""
+            },
+            {
+              "ko": "카드수수료, 전기·냉난방 등",
+              "en": ""
+            },
+            {
+              "ko": "사용료",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "관리비",
+              "en": "maintenance fee (building/CAM)",
+              "note": "For stores it is the monthly building charge paid on top of rent, which is different from 판관비 (SG&A)."
+            },
+            {
+              "ko": "임대료",
+              "en": "rent",
+              "note": "Common word for store rent in lease talks; the tenant's expense account is usually called 임차료."
+            }
+          ]
+        },
+        {
+          "ko": "고양점 실적으로 검증하고 수원점 운영 계획 에 반영",
+          "en": "Validate with the Goyang store's results and reflect in the Suwon store operating plan",
+          "source": "gmail",
+          "register": "memo",
+          "title": "Validate with the Goyang store's results and reflect in the Su…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "고양점 실적으로",
+              "en": ""
+            },
+            {
+              "ko": "검증하고 수원점 운영",
+              "en": ""
+            },
+            {
+              "ko": "계획 에 반영",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "운영",
+              "en": "operation",
+              "note": "Used for running a service, store, program or policy on an ongoing basis, as in 매장 운영 or 운영 성과."
+            },
+            {
+              "ko": "반영",
+              "en": "reflecting",
+              "note": "Used when a change is put into a forecast, system or the books, as in 판관비로 반영 (booked as SG&A) or 계획에 반영 (built into the plan)."
+            }
+          ]
+        }
+      ],
+      "url": "https://github.com/ganeshapp/teum-assets/releases/download/sentence-library-v1/work-027-v1.zip",
+      "sha256": "5c7aba6a9fe860470bd1fe7c0c3d364d19591022ca262412a64ce19aa4591a2f",
+      "downloadBytes": 6951462,
+      "installedBytes": 7172548,
+      "files": {
+        "audio/01bd5ba22988318180bd03f8598b98679e53153dec5a047913be7b97573d23b1.m4a": 12213,
+        "audio/0306931c11f931999b4be7b90b21e4b14f86dc7f434afe8311e4e20a9db7aa80.m4a": 16672,
+        "audio/05699cc79c5dd1c38484e54c2ccbb2fe931d7dc2888edded865af24ffcfb2e45.m4a": 42824,
+        "audio/05ddadd44bfffbee38c538964cce120ef1151ca20d72f136662c0c145a4b8582.m4a": 23047,
+        "audio/065adabb50861b34bc084a289171f113de9b729f06008c3c493f5d8b72ee879e.m4a": 62673,
+        "audio/070e9f26d6df47dbb730d0afcd4f742d18bf1aa835cced6b6d90162f95f0b5d1.m4a": 32536,
+        "audio/0712415e01f90c42b4bf1b6537856dcf8814b4ed79ab93a4cb25bea719e600b7.m4a": 37906,
+        "audio/07127d7762bcbbb90b03c501614ae36ffd917669ec9cdb6d701cdcd718df5d27.m4a": 11530,
+        "audio/07ae9fff5d55e3570e242c708b50f0a899888db1ed09fa974146552073c47406.m4a": 18718,
+        "audio/082b1668036332f17383a54cd5b59b06c9d30b3fa46c08019b8a0634421f9304.m4a": 17731,
+        "audio/0868e5444e8626a3c9d6a33a2d7fde341949f155b9abbdffcec0b5d82a86d49e.m4a": 36633,
+        "audio/08c83d232985dcc7ea3f938f4abdc082ed6cbd193f6daf17456e82038774fa84.m4a": 47744,
+        "audio/0b56b555e1f7adbc9c84288d9cf0bb707a098735ea4d5c241d7f256331b804c6.m4a": 54466,
+        "audio/0dc2a8838af2bd57d62e80bd713e8ab37aa4a435a35ac1bb9d619b8f12b40669.m4a": 12036,
+        "audio/0f146deac32af9515138d07eeff85a96a0be0a8a33a33c369360126ce75a372c.m4a": 34311,
+        "audio/0f19ce1473d227fbb2e7efa1f17e663f65348f96582c104903b837f02893473e.m4a": 34589,
+        "audio/14b66cd3b24f9f17749e8f9e2899326a9555864b6bfe71c5f7bf4c2e10ea9e07.m4a": 35303,
+        "audio/1591ce252ed4444e6bb8eb6f8926480e069bc3ff747adaf27e1b7dbce92a4a26.m4a": 12910,
+        "audio/164e8d533cb9e0b944995812ecffd2e084d78107059724437350bc96716e1f3d.m4a": 13703,
+        "audio/172d374e62eec0ae835b8443fafdfea1460860ec5f088ddde333d5d8660ee59e.m4a": 20483,
+        "audio/1942d556cdd37cae56850923e1a5990e93c11356cc3c8d9f8cdec96f9ee919d3.m4a": 12149,
+        "audio/1c9435baf1dc0a7eb7a239c7844e23aebb34af9d5f7309b6ad7c7881c7bcacd3.m4a": 44361,
+        "audio/1d5f0e8d9e29bbd7c735d13411d7894e64ee8c5a9736d38dc49d77e2e3a6bc45.m4a": 36510,
+        "audio/1d7a5ee4ea2d5b386a8c8d76ef32eab5bcc03c1a984cedaca3c74aded64ea319.m4a": 13852,
+        "audio/1de63b259daa49a533f1c4f7809da99decd1c44969d8c09647834702f2e30d5c.m4a": 20693,
+        "audio/1f13930577baee254e4d558b0477281ce2df91178fa99b63dc6f8954d3732e83.m4a": 20154,
+        "audio/1f1cac803313ad5054a3089d2e77a3ba1786b88b6724debd7c75f76f246e0ce2.m4a": 16965,
+        "audio/213302a22ddea04927bd78f69a784c3c6d9feafd4726076c868d26e2cc26a8fb.m4a": 22095,
+        "audio/21917c71d9bf92703ee8b3965d5d904837d01bab8fd3fcaa93a245319d46292c.m4a": 62655,
+        "audio/231a53e0b389712cfd1fe079a08aae980cba48c1e73f3e000f955b020845c4ca.m4a": 61866,
+        "audio/233d33bf220fbce4d542b3a6d58c96884050def529939bcbc5cb48e3cf7646a7.m4a": 13033,
+        "audio/2598910b1583ae1ed209ac7aef24783e231c5f3ec9c46506717e7d51ca4d2d21.m4a": 68429,
+        "audio/25be45a7a7595dac2c8892df1994adc33eefc4cd5f0474129ccbb930286b113e.m4a": 47907,
+        "audio/2833f53ad59a97c48e027952758a3f09dda082fa8f063c0de6e2998eac182dbd.m4a": 13337,
+        "audio/28c9dc67e9971ee76a27ab635665efb150363949e9c4effed26bbbdb2b23aa5c.m4a": 11173,
+        "audio/28ca119e8b3e16d26a2ca4b201576a036e1686e3924cbed7dfa204a7b3245407.m4a": 15083,
+        "audio/28e1b283740c4f10c81dcfd7143115400450a0d4974430586f1ddbc3f9b70c5b.m4a": 11669,
+        "audio/2a5f4e2ac4923a23e5f89536f4aaa951ccd493792b4dfb5582c11521e09f3182.m4a": 29428,
+        "audio/2b110412230223ae7eecacbee77aac8e5ff323a37e1b73b2b872770d248c947c.m4a": 55725,
+        "audio/2b93a721db2572bebce7ae856b0052f39482ee99f35ea2ad30bfdf0d8d32f52b.m4a": 12590,
+        "audio/2e80e5b918b43b593f1447a05f56494293fd2f8ceff95a7c5d59843199f81d7c.m4a": 12631,
+        "audio/2f7900a6a4fdf6884a028f0248df6c915362cf672799a3441653080006e6b334.m4a": 39960,
+        "audio/2f9bc54c0a0a9f3abc0ed0dbf4ea76af6d457a2b42547154d8708ca95710dd29.m4a": 45013,
+        "audio/31077e3791e54fb0614600b5fff916d54fd00fa17ba23f38ea0d2287cffba139.m4a": 39933,
+        "audio/31fabaf621a10c6eddfe3efb784c4f728a3bf366c6e3857125ebda7f4239c344.m4a": 12864,
+        "audio/32f1d41cca627b6133ed7262f1f5e5551552cf0a49a0ea8081a7c107f3261dd5.m4a": 41033,
+        "audio/33be2898eb8618eb62cedd6167028415324ce07db0c1965e9fd4f372bd3dd297.m4a": 13478,
+        "audio/39a4920f2010d7c2cd5e888000c9d86c9c2bfd88aba823e610edeaeb6557f100.m4a": 13030,
+        "audio/3a534f39fc9e4abc128b26c521cbfb9644e051cdaeb596a584f7977020d943c4.m4a": 19906,
+        "audio/3c713fb6b0ff9b3076e370f4c5248f93346bd17ee19036c05f43dc353380b843.m4a": 54779,
+        "audio/3d3362dbdb1e5caf9b8ab5778b4ec922c14479f8b3fb889b4348d88ab29020fc.m4a": 13510,
+        "audio/3dcc793046b8282c1d26b3c3ff76b621fedf9ff18a1e4893916e8d09c949ff76.m4a": 42540,
+        "audio/3ec5adad04f2308b99743953cf1073faa331187bc3f2728fc0fe3657a70ac0b8.m4a": 11736,
+        "audio/3efc63b93847b25ee550c4f50096ebe018900f4b22f820c9d3e6a14719390219.m4a": 12427,
+        "audio/3fb028f190b493a3e8da6e75d65f3f2aa022ac418b3e91ede1e5dfede6e47f4f.m4a": 28753,
+        "audio/4019facd780319edbb9b1fdca231b2615b6de551275a2c684d6ffb370f95fd52.m4a": 19413,
+        "audio/40f62a4a9c491dc04a7aee1cafa737855d06960c863c4e2dafe63ec61189cab3.m4a": 11446,
+        "audio/4243e0e20a4fb0d786d455eff8b252080f35c4e69e2298dc555875acbaf79ad8.m4a": 53915,
+        "audio/4266ba85426bf0abb75a0c89e3e0e8018dc3bfd191c4cbc7bb6d78013e7ccd98.m4a": 40028,
+        "audio/42ace333f8d4b79e255bcc2e02c353d2f34396eb701983f34d462aa936a5b5a0.m4a": 12392,
+        "audio/437aa74f0fec4ae8858b369056734c8569728517af105d061a8b0c3c0cb7157a.m4a": 55942,
+        "audio/43e3e10e77b91b23bc86683abddb1098e3d0dd508d542223ac08c31aeb5ae144.m4a": 42277,
+        "audio/44096d22b19faf0d61708c0ddd57bc3c4d56b05f2a893c2132566e33e37955f5.m4a": 24242,
+        "audio/458f3ed1c4f090f8d7b16f3a0c37452b099cfe719246e82911d76db8e46c3fdb.m4a": 11820,
+        "audio/4653ac7a51a281e3e017dd1e304f84b44704c2463c4ed37533092bf5d2fdc550.m4a": 14982,
+        "audio/48946e52c73dc2e53e660d578ef09fcb271103a20309cc8ace3c67bb9c55cfa9.m4a": 12311,
+        "audio/4a8efacdc709f420383167a36a1f6a737570c1f597083db3eea0f7d10ba52de0.m4a": 17467,
+        "audio/4c1f78cd6bef3a6656bac4ca5c0db4ae1b926f93e07aec9c16a65ecb35ea2c60.m4a": 35611,
+        "audio/4c27db3a7f8899725103c859a9375a3f0999dc6d492e4e3e24d04345bdb26a6e.m4a": 17894,
+        "audio/4c8f3dd2c8342f4041c42801582759afc7874a085efeb5664f76c7fc57b5b09e.m4a": 12152,
+        "audio/4e9f02b6dc4e7645a352072273516a347aa41752df614ae984aecc7fd9666fda.m4a": 11847,
+        "audio/4efaec8db5894411d8b10830be3967142b3be5bb97b332c528f3aa4a1b312614.m4a": 21373,
+        "audio/4fe59882f1d8d249a0ccaa63343c411cca4db970aeb9fac15879727fa98b10ed.m4a": 18476,
+        "audio/51133cba83024a4f6a6b67062656ed444ba7a65b00ec8972d2d6db65b1e4f374.m4a": 56188,
+        "audio/5180e53aab26b2bf00dc93fc27fc980f9cc1836d9da9a37b85326ad77e03f729.m4a": 40297,
+        "audio/523a9d4c8281cce0880f75ebde28e01478bcac93239331104144372f2d6667c6.m4a": 44469,
+        "audio/537610bd8b1946ad0a3872398c3956b83d90e4d9a730457399b0ce1d922e7fe0.m4a": 35110,
+        "audio/556c6a41786b4226eddc3563e723cf96ee7ca7c92c0129bb69c5b41d7b8f8e9e.m4a": 55081,
+        "audio/55e67717403735b9f56baeb5f4eebf4693454d5ca4e214066fbedd244105174d.m4a": 12441,
+        "audio/56cf29b840b1521ed4ba8f3237ae71d52e250cc8c00c94a4a91d03ea8ed4599c.m4a": 21561,
+        "audio/574a4a25905508cb01885f78e0633145c3566645291027d00dc611d2532b2eda.m4a": 13317,
+        "audio/57ada5ff6e550ceb3bdf71931cdc898aef7ec7b6cef22973ae68287495ed30ab.m4a": 63590,
+        "audio/57c998581c3439b66f4d3b62a0b59c15fab9dc0c9fd34ef786dab902fdda3560.m4a": 14291,
+        "audio/5803184a8a9191b33eb1d8b669df1329e8661917a5a10a0a5691b58f3ae82942.m4a": 13133,
+        "audio/5b77bac4982af23a30f6ea1f3eae595d59446f8971b26874e52cf09f39d12a16.m4a": 14187,
+        "audio/5e5c4789cd85e78b0c8fc82739a90d9957171cc68c3689fddff4dc7886ec5c3c.m4a": 22026,
+        "audio/5e8e137a25872cca96086070464a725c69fee41f01573775858c09af255fe744.m4a": 21884,
+        "audio/5eb943cb0943763944edf0221017ddfb829f1b34a75d7f76996130ada6606365.m4a": 33456,
+        "audio/5f816091740f3208eb7b3f22f6b2c3b9d0a9e581f597fdbda7a4c179ec6fcbb7.m4a": 25836,
+        "audio/60b5488157762431abf3c6afb406db024003c7c29231ceb6b96043ed2565573b.m4a": 19998,
+        "audio/60b9e41fbfeae01aab9b1c478f4d27f54014a3226791fcf615f1e856d6503800.m4a": 51400,
+        "audio/60ba386e43697c13b6b2fb5e21de93b3b326e03319d7319897a65884a6fd9020.m4a": 74826,
+        "audio/60ca9063a0ca480277afd3cabd0d57403afbc77e1da945b4d19a1b94248541a9.m4a": 14889,
+        "audio/6246b0966e0c3d7be0f7756d26579fe4d637a2c66c8b5c59095259af2fe05cd4.m4a": 39754,
+        "audio/636278c5bd87cd1b0d3a67e0a3fcbe7bed49e0a710d420785f9dabb9103a1709.m4a": 16718,
+        "audio/6474ab2c68e73087b229864c9d7086070d31c36b7ae8fea2c3bc9fc7e24570b3.m4a": 21350,
+        "audio/64abf0933e0a020819f9d78a7299ff4ab2589f91d68d4ddbfcc63058b806057f.m4a": 31936,
+        "audio/656da977298e6e4a192b9d47b33455bef5b4ba6b6d8feb4b818a3e86deb9395c.m4a": 49342,
+        "audio/670c6734c7c0e56e945c103e5a952ac1a597b7459f56d2d4d3ff705fcdfa7b3e.m4a": 26649,
+        "audio/696b176b822535a21870356ce9c2524f604fc7487315aa1261d70383972d8a6a.m4a": 65504,
+        "audio/69d3b228b5dd6c2aee1edc94847e8cac8bb0a38dd5cc70abe1e25fe6b7df9dfe.m4a": 13195,
+        "audio/6af37a0b7e46752dbef563d6a945cf0e0082aa1eee7619f7938534d236a7606f.m4a": 33306,
+        "audio/6b322f2cc7e8a690c552199527ee0461d03df26ffdc066c6acc40267698ea29e.m4a": 12668,
+        "audio/6c050f2d57b9e1894a795a89c24d95a1cbbfd47914ad984aea7e30b6f5e0194e.m4a": 49026,
+        "audio/6c5ea512f322aa217a9a9d4471eb4b353290de75c0f762a743456e80a263f834.m4a": 17562,
+        "audio/6c77e33ca99c61a23e95ae1a7c5fe04d02c9e5ff22008df749fde8ef8927adfb.m4a": 12769,
+        "audio/6de5007a7315d5fb6d6df738b954a02aee15243f3b80839d89e5dc7c4b0d170f.m4a": 60665,
+        "audio/6df88b96e9bc25b8e14feea20d0b61a7ad8021809fc7944278314b3e311de927.m4a": 55750,
+        "audio/6eca7671c38e2c23e7ff0a571895d05f1e7e86eb2ad4be196f40fefbebcdb742.m4a": 83768,
+        "audio/6ed621fae18374f394057d512d9a21d8b835b8c8ccefa51191936825be6572b3.m4a": 35384,
+        "audio/6fa90b81c1c48db5bd67032611076aa88bb94f29bc66c8bdb2ed0bba7a8c95d0.m4a": 39319,
+        "audio/6fa9dddb9741c5bba3d9c64f4500ab0597ffbf581aa8a2fa274fbadbd436ebc0.m4a": 16049,
+        "audio/706512c9af35743f9ae6dd38d863193de3492900ef1bb34ceb5e217d3c48535f.m4a": 43533,
+        "audio/72f384e646ba6fcaeff748cd8e393fa9d96e192a69c9204f8d9c8b0c62e12216.m4a": 24031,
+        "audio/73e4f20c98767ab687395c53f0edcd11460f2898914ffd7a466ba8aa4f8f28ba.m4a": 12216,
+        "audio/73eca3c69590b66e9167ea70fe9f06a9adf8719975df00ccb220c7c6b33c7053.m4a": 62401,
+        "audio/7701814fb935248ea108a42aabdec7cb9eb8e447e38c8f21e54f7764cf9bc2f9.m4a": 49091,
+        "audio/7701a5464c477b390178141eba0210f2446beb3737830efef69d927583406d71.m4a": 74571,
+        "audio/77fc2a1a0ee7a00b143226a292026b93d643db02e25a04d2941b713b1e8334e7.m4a": 43794,
+        "audio/78ca7722346044e56a9e419241424a3ef90c87338f05fd789e96dc98c362e4d6.m4a": 16977,
+        "audio/7926aa65c6bb8f30f2cab31229b01cd07ba5293985b998b92f68ff5276a59562.m4a": 41978,
+        "audio/796f89dd1d1482450d1b4504502be8f6dbde5d2e3425b2376c38e916b6695405.m4a": 76294,
+        "audio/7a2155016079ea0f3c6ccd8c59a1007a17250b83e9775ba68d96953e947c5259.m4a": 13114,
+        "audio/7ab8da0651ddd0da313caadaa8b5f511c4d1b6a90f7d6c3a28de330a5688ad9f.m4a": 13768,
+        "audio/7f4d8f1c1e3334f4868466accdd5a322ad5d5a84d4dc261f609e0c580a7ad1bd.m4a": 11427,
+        "audio/8277d25400e5502eef4ab68a0844988d5ee188b0de765a1a8cfe388554533b09.m4a": 46677,
+        "audio/82957706121186e07818e7cea5ee980c899963d15dbf6ce2c31cb9e5914afeb3.m4a": 54323,
+        "audio/83a54fc2c835f401c045b45317f7d298837451b87a765cb03d8cd40326e1fb35.m4a": 13006,
+        "audio/847a622ab49cfa123bc3faea052b8fc02f17a3f57ea717d6b4464e8cfb53578b.m4a": 62322,
+        "audio/854bf31f486cba8603fb790e610355314d74119576fbba98e71620ed5f58473b.m4a": 39934,
+        "audio/87c6f9bd4493da8ac88db502ab560cf28c92cfd1d34d3587301f002e32bfce96.m4a": 19219,
+        "audio/881be80ce5615066e21fbb84f94efc6f35f20c6afe4e97264417ea33cd8012e0.m4a": 13097,
+        "audio/8a0fbe43bd2dc3e4abc52ac79207622fae93ce032fd25d88dd22d1e0d8307556.m4a": 28018,
+        "audio/8c73c9f8ee9d5397f0e963b9929676aff6a7e7088c5469380659a56dcfc4a7d7.m4a": 20352,
+        "audio/8d575c016cdbd0d88f57533fe277f22c1ea33d52df68b18e848ded805d33b724.m4a": 76504,
+        "audio/8fe9956ecda79925389e7f3be3cc4c638442f4d109fdbb1e22f24589b3bc35d7.m4a": 77988,
+        "audio/9060ee5fb0f4d6929a44ba147aea539cf682fd13ee0291616bc8776885775fcb.m4a": 14256,
+        "audio/91297bca8209e7051630ae4456a6abebb5d3b684fa6005a0bd2ea75d62d87c6e.m4a": 23968,
+        "audio/913ef22b98a961c33583d5ae559f00b8bede6c70ed8d051eaafc8feec2573187.m4a": 84024,
+        "audio/91429833c7eba0c8f1ca008654922e0518dc83d0686a787dfa485eb84f04f98e.m4a": 14001,
+        "audio/93859b5c78d8553f9c95533af3c31b86c80624c6b5c79be018723de0b852cc46.m4a": 11739,
+        "audio/95000899ac09cfff126975cc7605fe7edbddc85858454f8a2ab793ad4c31f7ed.m4a": 14942,
+        "audio/96488cb9c9f9eddfa354d85d75be477a878efa31e16c4eef244d6c7d17227b9d.m4a": 14075,
+        "audio/974efd579270eb6461860b218c52ab8aa6dc913e5542f11d94284dcfad65b47a.m4a": 43795,
+        "audio/99a3d573b3b8aa833a6f837650daf67925c90431140e92961a5627e89e61e4fa.m4a": 15358,
+        "audio/9a2929b272be3fa03f6d37ac993b4f54dc397069dffdd29f101f0b9fb451bf4a.m4a": 18778,
+        "audio/9a684d79327075a65a7e6c6ef793e95ee9076a74b62b76c6a3a06027991920da.m4a": 23578,
+        "audio/9bdba120fbd39485852674319141039d1151589eb278c912f984f9e1eb862c2e.m4a": 65207,
+        "audio/9be80ba878919595eb13dafb3c3f4d3a7b49269bcaea56ada786edf8d82e3cca.m4a": 14278,
+        "audio/9dfd8fa79f5d15b8bf6d8b41abc0073d43dfa4d7baf31fd07551da943dc7fe3f.m4a": 48252,
+        "audio/9fbf60911bfe3d03fb2cfde565f5b54d00d01e9f4fe627baea99e1bf5e90bd2f.m4a": 27024,
+        "audio/a3df8f61e05304b4817bfee6fa79fd92d49d2b67b248fb9481b7accbea98a4ab.m4a": 11839,
+        "audio/a412ea644be1200b641d18d8c68a95e2fa8f2ecfe6ccd40c8ed74cefff2c7a96.m4a": 13924,
+        "audio/a567968ce1c3c0f8042050d06d1a0d6683bee08e72e177a52c542ea93271ee5a.m4a": 51078,
+        "audio/a67360976c4b68528445088c6422d87fda6c3694d7887d8cc3dcefa213a009e6.m4a": 11583,
+        "audio/a766afb6a4d4db4ce211a1e140622adad7cd93ffe7b450acfa20cc77e8ccf661.m4a": 46939,
+        "audio/a768cf6c503ed51247c9d3c0e59c7f267e5a741e41e716fa13198fbb66fc270b.m4a": 49069,
+        "audio/a7747c7b046fbfb57f9d789a8e4de28d99669b535c211463d74e121f4dae5aa8.m4a": 19163,
+        "audio/a7ba0fd631a2da2ea0c83a85ccc57c5e78be163c4b04f0b63bcfd98796a097b3.m4a": 11478,
+        "audio/ab66de434a4eb5280fd3f2ec4ff76c28511ac534a95acfeafc0cc4b286dfdc94.m4a": 54980,
+        "audio/acec1ce9d0c9b008a309877e5d6001ab342e6233c0e458dffbc07c7f727dc3a5.m4a": 55785,
+        "audio/ad3eaecf60c61aacd49863b417e0c495310d9abb3264a10f02bccabc9b5e29cc.m4a": 11533,
+        "audio/ad71d53ab43a8391abeca4419b2ef3b0c7fd291f9e8e0d8d34ae630241186357.m4a": 59093,
+        "audio/ae26d696a4a9e029f5052c58661161dd4d4269e93046e700c1648168ed0e541c.m4a": 21082,
+        "audio/afe3b4dd5c536e7d363ffbf05c50f9a27ae964f4e7a4211a6155f42146c85af1.m4a": 54665,
+        "audio/b04b8ede4a8e18882c4fec1d7dc64ac0e24972a14990ca88f1440ae4bbe1e8dc.m4a": 13253,
+        "audio/b06d076ac5f71fce384e1913d3eba91b425b0900f64460db04ce645a8e6e404b.m4a": 38627,
+        "audio/b2bea25a8ca814437089019575afdae3ca5525a25f01c766f2252e49741722c8.m4a": 18938,
+        "audio/b53658dff56ec42953bb73dfd2ce0a79a9662e2b11b7ad2047b6fcffda0a0ca2.m4a": 12228,
+        "audio/b8702bc596c475d7c079ceed069410220e101921a72f1a9185436401e060f878.m4a": 13527,
+        "audio/b8f73cab46cff3ba7ef1b13b2c0dbebdd0fe32d20479a7725927b2b89ec71b70.m4a": 11643,
+        "audio/bb84c91edce60f4b65526db4512624c940eb5a9016bdede7f8123df6ce4fe539.m4a": 55350,
+        "audio/bc33212f5979f7f5c2013c9f26dfaaa629d858d76cba49d77ee9bbb648316e7a.m4a": 12701,
+        "audio/bf0b24625237b63ee4e2a7db7bb2a0848a63f28dfb98efbb1333400f42094f2b.m4a": 12653,
+        "audio/c0556ad393c5f9220e580913396bfe9a60fa0676c72ea2c296896a32920ad4dd.m4a": 39221,
+        "audio/c19217db6214915e21c33f500ff42ddcbdfd68e389bd706e33a192f739ff34a0.m4a": 39606,
+        "audio/c1c25caac4cb7b7699ec451546f118d968a00bad236eb7d91e2bf6da34bad283.m4a": 18531,
+        "audio/c3dc8a4902126218db39ff3c6e576e096f2187e75363ac60ba44d90fa8c3d2c4.m4a": 63342,
+        "audio/c4d65c94727b8a55fcfb8c3966968d968cb19c4163f6c73ff5e6382ef13df85c.m4a": 25493,
+        "audio/c4ed47f37d37a50671aff674c444eb32e1d6cd1328097595b9a21b8cf8ff9d71.m4a": 12021,
+        "audio/c899cb1f7436c59b0e795b93be02217d2a3138c4d26043ec53b91872068282fe.m4a": 15673,
+        "audio/c996c2527718b8bd81ab313cd35223ba1c0d315fb2b1231b674f923cadb2a7a4.m4a": 51102,
+        "audio/c9db0cfe478d2903e7b6a53589a901f39485e581d5586a57b57bac1354b45aa1.m4a": 19760,
+        "audio/cb27239915ce12f3ddf45ace497e630ff59783514ccca3737c97325ee6837e47.m4a": 43566,
+        "audio/cb5beceb128bb6292780aa435a15c436d1ae9b7fddceb6de461a482d063e0b99.m4a": 15144,
+        "audio/cbbe092c9fe8f2f55c4700e12f9c5df92f4af60c8df386c9619b776bc98dca4c.m4a": 11861,
+        "audio/cd8b7265d6f24ad072659c0041fb02f492c222ad432d9710b108db2dd41254b0.m4a": 19509,
+        "audio/cebcc1450e4436b847a86691f98c4334e450f8e7aeb8d476eb93b6047bf4ad0c.m4a": 42243,
+        "audio/cf7cf896cee9fab1ec047ee68e9b82452306b437c75f966383943078b1c1006b.m4a": 39437,
+        "audio/d0dee6e87a4f112f8ba16da2808235567c313fdb2ce72ea47f6ecccf693711b8.m4a": 30631,
+        "audio/d1276013123adcdf9e7cea59f27fe9782f1cb075043b4094dd048d1d8bd14a00.m4a": 55445,
+        "audio/d1c42c51bc5a6d0531f785d89e1c5c9c1e7d341ec555297f4e7be33feb22a6a5.m4a": 20931,
+        "audio/d23258a2310de72f55e69283a662fb668fbdf76ab07dc3246fc28a0c4cdd0ca1.m4a": 19724,
+        "audio/d2b8f009faca3773a79107e1419e017a2d55705db7e99ceac1576ddd097a1ae4.m4a": 11821,
+        "audio/d2e4e5fbfd3162f412c1eca796ec242de1224883b1862c4b9d8f6f4089dc4a23.m4a": 24531,
+        "audio/d3e534cba71aa4f0ade4a2a1510d63afa03365cefd702c44be570244e42ce2a3.m4a": 33531,
+        "audio/d3f711e2e967cafeecd8a980f4d9c9ed8a4202671f43871950a3ed8e1bd5e020.m4a": 17806,
+        "audio/d41a924906bbab648993459cc105c9c94020d51ce94a2136569f8938593c0680.m4a": 50321,
+        "audio/d6b4572ec84cee6d64d0b7311c27e5420f5667540de677f9b45f88b11d2299f6.m4a": 16634,
+        "audio/d7d00d12479df6cfcc99e80e9124e90a56b45e96ba16d88dab91efa54878f6be.m4a": 34070,
+        "audio/d94ab0ae3d8562eeb478416d62e003311a7b2b051863ce3698207c3c13ba01dc.m4a": 60310,
+        "audio/d974c19eb30a8769e531ee0a243113cf2f1a5d0c936fe49cd6096c15b2615e60.m4a": 51372,
+        "audio/da50aa84e4835123bf1a120598b59df7572da6d5df0eda560b190e95861aab8d.m4a": 12241,
+        "audio/dc947fbcacfb427a6ed5a48640927f0335e85b31ac21b5a86b7f07b03d1137f6.m4a": 21093,
+        "audio/dcae0da0befdcba8bbc9f5a74b5eff69d5eeae23a600bde6ad77a7793d85af35.m4a": 22858,
+        "audio/dd5f50fd6c812908793ada11c46ffde5df8bba379f0f886d63706e4f09d318aa.m4a": 44812,
+        "audio/deb4d18836ffbc8440dff348b49ea4abc12ba44d67ecdd643985ba80faeefa0c.m4a": 49630,
+        "audio/df32214dac4dc34ba0883b9afc69c3b712010343a9ca2d25999d336495548af3.m4a": 13818,
+        "audio/dfaa19e0f1363feae8fa3930763cf9a51d1073d885c3b94061fb4a15e25a4f66.m4a": 10851,
+        "audio/e47a001c388dccb46c8a9b32986304d4bd8eb7df7451d03546c54c9c131f4788.m4a": 34935,
+        "audio/e4d6c38a0189a872a260cd3614d38202089c74c0121b66f40d5921015ecb318a.m4a": 18077,
+        "audio/e5445b07a5e2ad20d0bbf5eaaee91615c409cb28ddd3d79f9bc485571ab5ee73.m4a": 24830,
+        "audio/e5bf75e1373310e30590591731350270bfdf3a6fbe809dcc7ca974d98214c1fe.m4a": 13774,
+        "audio/e786ed738b38d07397f130670f11766faea947e9ce9d291a6b67d49efdc071be.m4a": 13665,
+        "audio/e85e7c9144e8519d660f00cfad6216ec223a213afb63a9e9df0fe17a19a26897.m4a": 14652,
+        "audio/ea08bd66d31e1880cffdb44e56f251defecdff46e5fdac1decaebe60628843d1.m4a": 16056,
+        "audio/eb7320ca7715d710df93d1d0c62e408beeb6ecf871c6d4199774ef8503cc5f3c.m4a": 13507,
+        "audio/ec2e0cee553d65df322dec41ecbeba3fd7640dd7ea965c654122b1f3496eefb9.m4a": 13388,
+        "audio/ee7d2a87727033539928bd04f9e1d5c83da50c8a925d72e0eb634aa94b5e2a3d.m4a": 54215,
+        "audio/ee9dac7504de458f24061abc7f8ec66e8fd1e860eb10ea0f547e527b4a052f73.m4a": 12510,
+        "audio/ef2be84361a9f1400066111a10eb61b63f6f020d6b825e22d84a1da9c1a02034.m4a": 56002,
+        "audio/f1ec3bd0b1dd93b42a801deffddb52126cb56ede0f43af18e19c74c0efa8409b.m4a": 77694,
+        "audio/f220bbaeac63621d9260d554600cb1b98ef457b464ad5e3a3b1f950cef89f3b7.m4a": 12109,
+        "audio/f4e803b5d8185757566909cc8aabbc6b9fd59379993ad867ba9e36ed08679e5b.m4a": 20858,
+        "audio/f4ee8c22440423b83fe6bb9a9a2a2a12ea48c72b404da6bc8f6b44033f6c5e22.m4a": 45371,
+        "audio/f54b50d73fedffc9c3d7feebfb076ea5e56d01098707d4077c6cee6596326504.m4a": 12132,
+        "audio/f5d796b22a0211b09e04819cac4a4d643d7be6736028e555b30401b3ba4918ac.m4a": 16117,
+        "audio/f7cae8dc8e20ceafe6d93cdc67e59aa61e8c638942b91ace2a7f98a9b0ac06e0.m4a": 23271,
+        "audio/f98504e2614a181ffebea2377580d37f96ca8eece797a725b83d999d58881868.m4a": 13443,
+        "audio/fa5b4c975e725ec4a55cffabf02160c3dc5938f3f25a3289d1c319e5efd756e4.m4a": 37326,
+        "audio/fa701d2a719040e98c088721778cf13eaead5aecbd9006bb828cf70877e48376.m4a": 14754,
+        "audio/fae41e21f0408932148c97de208943ceee0367750533d6c3be201d633bdc5e8e.m4a": 24076,
+        "audio/fb04008e23c32bc884b0de226debbe1bf3fc81bad8dfe87ae8263ede3bbd1066.m4a": 16425,
+        "audio/fcfafeb0d8fc6c02b877eaa0c0016ee3ef590bc832903002c435c22f7a23dc1a.m4a": 12969,
+        "audio/fd4b4a73e7ecb206dba1ca070f1e1769fbfdacfc6269d487ff21f450e6f5bc30.m4a": 48600,
+        "audio/fea7a3f0c541242a96610a619e05adbe68c3a125a1c735c299f29b131aae4d02.m4a": 31680,
+        "audio/ff31c87f0d11271a13d5b3f4205303a53b1d9e085dd14b84de5ada26ac36658d.m4a": 60555
+      }
+    },
+    {
       "id": "work-051",
       "revision": 1,
       "kind": "lessons",
