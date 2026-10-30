@@ -8,6 +8,8 @@ The Android app reads [catalog.json](catalog.json) and downloads versioned ZIPs 
 
 ## Available packs
 
+The sentence library is expanding in packs of up to 25. Use **Teum 1.3 or newer** and tap **Your audio shelf → refresh** to see new packs as they finish. The APK does not need to change for each batch. This expansion covers sentence lessons only.
+
 - **First little conversations:** 25 guided lessons in Voice A, about 6.5 MB to download. Whole sentence, meaning, key words, phrase practice, sentence build-up, and recall. Recordings are 64 kbps AAC-LC, mono, 44.1 kHz in M4A containers.
 - **Speak any Korean:** optional Supertonic 3 int8 model, about 124 MB to download / 145 MB installed. Enables arbitrary words, pasted text, custom lessons, and Voice B entirely on the device. Prepared lesson packs work without it.
 
