@@ -73911,6 +73911,973 @@
       }
     },
     {
+      "id": "work-074",
+      "revision": 1,
+      "kind": "lessons",
+      "title": "Work sentences 074",
+      "description": "Sentences 1826–1850 · Short thoughts · deck",
+      "lessons": [
+        {
+          "ko": "미지급금 100 / 매출채권 100",
+          "en": "Accounts payable 100 / Trade receivables 100",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "Accounts payable 100 / Trade receivables 100",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "미지급금 100 /",
+              "en": ""
+            },
+            {
+              "ko": "매출채권 100",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "미지급금",
+              "en": "non-trade payables (unpaid amounts)",
+              "note": "Amounts owed for things other than inventory purchases; trade payables are 매입채무."
+            },
+            {
+              "ko": "매출채권",
+              "en": "accounts receivable (trade)",
+              "note": "Receivables from sales; 미수금 is used for other, non-trade receivables."
+            }
+          ]
+        },
+        {
+          "ko": "자세한 기준은 위키를 참고해주세요",
+          "en": "Please refer to the wiki for the detailed criteria.",
+          "source": "drive-deck",
+          "register": "polite",
+          "title": "Please refer to the wiki for the detailed criteria.",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "자세한 기준은 위키를",
+              "en": ""
+            },
+            {
+              "ko": "참고해주세요",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "기준",
+              "en": "basis",
+              "note": "Very common in data and reports as 'X 기준', meaning 'on an X basis', for example 주문일 기준 (by order date)."
+            },
+            {
+              "ko": "참고",
+              "en": "reference",
+              "note": "참고 부탁드립니다 means 'please note' or 'for your reference', and 참고로 means 'for reference'."
+            }
+          ]
+        },
+        {
+          "ko": "Agenda 2. 커머스와 원팀 운영",
+          "en": "Agenda 2. Operating as one team with Commerce",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "Agenda 2. Operating as one team with Commerce",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "Agenda 2.",
+              "en": ""
+            },
+            {
+              "ko": "커머스와 원팀 운영",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "운영",
+              "en": "operation",
+              "note": "Used for running a service, store, program or policy on an ongoing basis, as in 매장 운영 or 운영 성과."
+            }
+          ]
+        },
+        {
+          "ko": "카테고리별로 쪼개진 스펙이 단가를 높인다",
+          "en": "Specs split by category raise the unit price",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "Specs split by category raise the unit price",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "카테고리별로 쪼개진 스펙이",
+              "en": ""
+            },
+            {
+              "ko": "단가를 높인다",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "단가",
+              "en": "unit price",
+              "note": "Price or cost per unit (저단가 'low unit price'), and 단가 조정 means renegotiating rates."
+            },
+            {
+              "ko": "카테고리별",
+              "en": "by category",
+              "note": "The suffix -별 attaches to any noun to mean 'broken down by', very common in table headers (브랜드별, 월별, 사업부별)."
+            }
+          ]
+        },
+        {
+          "ko": "“상시 상태 검사에 실패한",
+          "en": "'The regular status check failed",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "'The regular status check failed",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "“상시 상태 검사에",
+              "en": ""
+            },
+            {
+              "ko": "실패한",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "상태",
+              "en": "status",
+              "note": "In systems it is the status of a document or task, e.g. 결재상태 'approval status'."
+            },
+            {
+              "ko": "상시",
+              "en": "at all times",
+              "note": "Means something runs continuously rather than as a one-off (상시 검수 = constant inspection, 상시 할인 = everyday discount)."
+            }
+          ]
+        },
+        {
+          "ko": "히어로 후드셋업",
+          "en": "Hero hoodie set",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "Hero hoodie set",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "히어로 후드셋업",
+              "en": ""
+            }
+          ],
+          "words": []
+        },
+        {
+          "ko": "스토어 점수 4.4 이상 유지",
+          "en": "Maintain a store score of 4.4 or higher",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "Maintain a store score of 4.4 or higher",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "스토어 점수 4.4",
+              "en": ""
+            },
+            {
+              "ko": "이상 유지",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "이상",
+              "en": "or more",
+              "note": "Two words share this spelling: 以上 means 'or more' or 'any more' (목표 이상, 더 이상), while 異常 means 'abnormal', as in 비용 이상 or 이상 감지 (anomaly detection)."
+            },
+            {
+              "ko": "유지",
+              "en": "maintaining",
+              "note": "Common in reports for holding a level, e.g. 성장세 유지 'sustaining growth', and 유지보수 means maintenance."
+            }
+          ]
+        },
+        {
+          "ko": "└ 조정금액이 포함된 법인현금흐름표 최종 금액",
+          "en": "└ Final corporate cash flow statement amount including adjustment amounts",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "└ Final corporate cash flow statement amount including adjustm…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "└ 조정금액이 포함된",
+              "en": ""
+            },
+            {
+              "ko": "법인현금흐름표 최종 금액",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "금액",
+              "en": "amount (of money)",
+              "note": ""
+            },
+            {
+              "ko": "포함",
+              "en": "inclusion",
+              "note": "Used as ~ 포함 (including ~), and 미포함 means 'not included'."
+            }
+          ]
+        },
+        {
+          "ko": "※ 컬럼 더블클릭 시 조정금액 입력 가능",
+          "en": "※ Adjustment amounts can be entered by double-clicking a column",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "※ Adjustment amounts can be entered by double-clicking a column",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "※ 컬럼 더블클릭",
+              "en": ""
+            },
+            {
+              "ko": "시 조정금액 입력 가능",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "가능",
+              "en": "possibility",
+              "note": "Often appears as 가능 여부 (whether it is possible) and 가능성 (likelihood), and 가능하다 is the adjective form."
+            },
+            {
+              "ko": "입력",
+              "en": "input",
+              "note": "Means entering data into a system or template."
+            }
+          ]
+        },
+        {
+          "ko": "└ 연결계정의 특정 전표그룹에서 값을 가져오도록 매핑",
+          "en": "└ Mapping so that values are fetched from a specific voucher group of the linked account",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "└ Mapping so that values are fetched from a specific voucher g…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "└ 연결계정의 특정",
+              "en": ""
+            },
+            {
+              "ko": "전표그룹에서 값을 가져오도록 매핑",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "전표",
+              "en": "journal voucher (accounting entry)",
+              "note": "In the ERP you draft (작성), submit for approval (상신) and get approval (승인) on a 전표; once approved it must be cancelled and redone to change it."
+            },
+            {
+              "ko": "특정",
+              "en": "specific",
+              "note": "Used before a noun, as in 특정 브랜드 (a specific brand)."
+            }
+          ]
+        },
+        {
+          "ko": "무신사 플랫폼 풀에 배부된 29CM 팀",
+          "en": "29CM team allocated to the Musinsa platform pool",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "29CM team allocated to the Musinsa platform pool",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "무신사 플랫폼 풀에",
+              "en": ""
+            },
+            {
+              "ko": "배부된 29CM 팀",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "배부",
+              "en": "allocation (of costs)",
+              "note": "Cost accounting term for allocating shared costs to business units; close to 배분 but more technical."
+            }
+          ]
+        },
+        {
+          "ko": "3) 글로벌 슈퍼백 신규 기획 및 판매",
+          "en": "3) New planning and sales of Global Super Bags",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "3) New planning and sales of Global Super Bags",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "3) 글로벌 슈퍼백",
+              "en": ""
+            },
+            {
+              "ko": "신규 기획 및 판매",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "판매",
+              "en": "sale",
+              "note": "Refers to the act of selling (판매가 = selling price, 판매수수료 = sales commission), while 매출 is the revenue figure."
+            },
+            {
+              "ko": "신규",
+              "en": "new",
+              "note": "Used like an adjective in 신규 고객 (new customer), 신규 출점 (new store opening) and 신규 브랜드."
+            }
+          ]
+        },
+        {
+          "ko": "*솔로베어 계약서 날인 완료",
+          "en": "*Solobear contract sealed",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "*Solobear contract sealed",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "*솔로베어 계약서 날인 완료",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "완료",
+              "en": "completion",
+              "note": "A status word for 'done', as in 결재 완료 (approval completed) or 협의 완료 (agreed)."
+            },
+            {
+              "ko": "계약서",
+              "en": "contract (document)",
+              "note": "계약 is the agreement itself and 계약서 is the signed document; 날인 means stamping it with the company seal."
+            }
+          ]
+        },
+        {
+          "ko": "✅ 도쿄팝업 연계 캠페인 대응 (4/8)",
+          "en": "✅ Respond to Tokyo pop-up linked campaign (4/8)",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "✅ Respond to Tokyo pop-up linked campaign (4/8)",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "✅ 도쿄팝업 연계",
+              "en": ""
+            },
+            {
+              "ko": "캠페인 대응 (4/8)",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "대응",
+              "en": "response",
+              "note": "Means reacting to a situation (장애 대응 'incident response', 고객 대응 'customer handling') rather than replying to a message."
+            },
+            {
+              "ko": "연계",
+              "en": "linkage",
+              "note": "'~ 연계' means tied in with something, e.g., 가격 할인 연계 (linked to price discounts)."
+            }
+          ]
+        },
+        {
+          "ko": "신규 취약점은 조치 완료까지 PR 병합을 차단합니다",
+          "en": "New vulnerabilities block PR merges until remediation is complete.",
+          "source": "drive-deck",
+          "register": "formal",
+          "title": "New vulnerabilities block PR merges until remediation is compl…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "신규 취약점은 조치",
+              "en": ""
+            },
+            {
+              "ko": "완료까지 PR 병합을",
+              "en": ""
+            },
+            {
+              "ko": "차단합니다",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "신규",
+              "en": "new",
+              "note": "Used like an adjective in 신규 고객 (new customer), 신규 출점 (new store opening) and 신규 브랜드."
+            },
+            {
+              "ko": "완료",
+              "en": "completion",
+              "note": "A status word for 'done', as in 결재 완료 (approval completed) or 협의 완료 (agreed)."
+            }
+          ]
+        },
+        {
+          "ko": "미검사·기준 미달·승인 취소 이미지는 다운로드를 차단합니다.",
+          "en": "Images that are unscanned, fail the standards, or have canceled approval are blocked from download.",
+          "source": "drive-deck",
+          "register": "formal",
+          "title": "Images that are unscanned, fail the standards, or have cancele…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "미검사·기준 미달·승인 취소",
+              "en": ""
+            },
+            {
+              "ko": "이미지는 다운로드를 차단합니다.",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "기준",
+              "en": "basis",
+              "note": "Very common in data and reports as 'X 기준', meaning 'on an X basis', for example 주문일 기준 (by order date)."
+            },
+            {
+              "ko": "승인",
+              "en": "approval",
+              "note": "Means formal approval of a request or document, and 승인코드 is a card payment authorization code."
+            }
+          ]
+        },
+        {
+          "ko": "AI 스튜디오 배너 자동 크롭",
+          "en": "AI Studio banner auto-crop",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "AI Studio banner auto-crop",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "AI 스튜디오 배너",
+              "en": ""
+            },
+            {
+              "ko": "자동 크롭",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "자동",
+              "en": "automatic",
+              "note": "Mostly a prefix in compounds such as 자동보충 'auto-replenishment', 자동생성 'auto-generation' and 자동출고 'automatic dispatch'."
+            }
+          ]
+        },
+        {
+          "ko": "(냉감 티셔츠, 크롭/레이어드 티셔츠)",
+          "en": "(Cooling T-shirts, cropped/layered T-shirts)",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "(Cooling T-shirts, cropped/layered T-shirts)",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "(냉감 티셔츠, 크롭/레이어드 티셔츠)",
+              "en": ""
+            }
+          ],
+          "words": []
+        },
+        {
+          "ko": "GMV 50억(YoY+20%) EBIT 흑자전환 (전년-15%)",
+          "en": "GMV KRW 5,000 million (YoY +20%), EBIT turnaround to profit (prior year -15%)",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "GMV KRW 5,000 million (YoY +20%), EBIT turnaround to profit (p…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "GMV 50억(YoY+20%) EBIT",
+              "en": ""
+            },
+            {
+              "ko": "흑자전환 (전년-15%)",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "전년",
+              "en": "previous year",
+              "note": "전년동기 'same period last year' is the basis for YoY comparisons."
+            },
+            {
+              "ko": "흑자전환",
+              "en": "turning profitable",
+              "note": "The opposite is 적자전환 (turning to a loss); 흑자 means profit, from black ink."
+            }
+          ]
+        },
+        {
+          "ko": "③ 티셔츠 매출 목표 달성",
+          "en": "③ Achieve the T-shirt sales target",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "③ Achieve the T-shirt sales target",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "③ 티셔츠 매출",
+              "en": ""
+            },
+            {
+              "ko": "목표 달성",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "매출",
+              "en": "sales",
+              "note": "The revenue line in the P&L, which is smaller than 거래액 (GMV) because third-party sales count only the commission as revenue."
+            },
+            {
+              "ko": "목표",
+              "en": "target",
+              "note": "In performance tracking it is the target figure, with 목표 달성 (target met) and 목표 미달 (target missed)."
+            }
+          ]
+        },
+        {
+          "ko": "브랜드 상품의 29CM 부담 할인",
+          "en": "29CM-funded discount on brand products",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "29CM-funded discount on brand products",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "브랜드 상품의 29CM",
+              "en": ""
+            },
+            {
+              "ko": "부담 할인",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "상품",
+              "en": "product",
+              "note": "In commerce it means an item for sale, and in accounting it means merchandise bought for resale, as opposed to 제품 (goods the company manufactures)."
+            },
+            {
+              "ko": "할인",
+              "en": "discount",
+              "note": "Who funds a discount matters in P&L discussions, so you will see 무신사 부담 (Musinsa-funded) vs 브랜드 부담 (brand-funded)."
+            }
+          ]
+        },
+        {
+          "ko": "국내-글로벌 입점 브랜드 글로벌 미연동 상품",
+          "en": "Products of brands listed in both domestic and global that are not linked to Global",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "Products of brands listed in both domestic and global that are…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "국내-글로벌 입점 브랜드",
+              "en": ""
+            },
+            {
+              "ko": "글로벌 미연동 상품",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "상품",
+              "en": "product",
+              "note": "In commerce it means an item for sale, and in accounting it means merchandise bought for resale, as opposed to 제품 (goods the company manufactures)."
+            },
+            {
+              "ko": "입점",
+              "en": "onboarding (brand)",
+              "note": "Means a brand joining the platform or a store opening inside a mall, and 미입점 means not on the platform."
+            }
+          ]
+        },
+        {
+          "ko": "광고선전비, 판촉비: 목표 대비 마케팅비율(약 2~4%수준)",
+          "en": "Advertising and promotion expenses, sales promotion expenses: marketing expense ratio vs. target (about 2–4%)",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "Advertising and promotion expenses, sales promotion expenses:…",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "광고선전비, 판촉비:",
+              "en": ""
+            },
+            {
+              "ko": "목표 대비 마케팅비율(약 2~4%수준)",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "광고선전비",
+              "en": "advertising expense (account)",
+              "note": "The standard GL account for advertising and promotion spend, often with a sub-label such as (온라인) or (글로벌광고대행)."
+            },
+            {
+              "ko": "목표",
+              "en": "target",
+              "note": "In performance tracking it is the target figure, with 목표 달성 (target met) and 목표 미달 (target missed)."
+            }
+          ]
+        },
+        {
+          "ko": "인지도 확산을 위한 &#11;브랜드 마케팅 활동 강화",
+          "en": "Strengthen brand marketing activities to spread awareness",
+          "source": "drive-deck",
+          "register": "memo",
+          "title": "Strengthen brand marketing activities to spread awareness",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "인지도 확산을 위한",
+              "en": ""
+            },
+            {
+              "ko": "&#11;브랜드 마케팅 활동 강화",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "강화",
+              "en": "strengthening",
+              "note": "A staple of plan slides in the form X 강화 'strengthen X', e.g. 협상력 강화 'stronger bargaining power'."
+            },
+            {
+              "ko": "활동",
+              "en": "activity",
+              "note": "In the cash flow statement, 영업활동, 투자활동 and 재무활동 are operating, investing and financing activities."
+            }
+          ]
+        },
+        {
+          "ko": "신규 브랜드 입점 목표 및 실적",
+          "en": "New brand entry targets and results",
+          "source": "drive-deck",
+          "register": "label",
+          "title": "New brand entry targets and results",
+          "topic": "Short work sentences",
+          "curated": false,
+          "chunks": [
+            {
+              "ko": "신규 브랜드 입점",
+              "en": ""
+            },
+            {
+              "ko": "목표 및 실적",
+              "en": ""
+            }
+          ],
+          "words": [
+            {
+              "ko": "목표",
+              "en": "target",
+              "note": "In performance tracking it is the target figure, with 목표 달성 (target met) and 목표 미달 (target missed)."
+            },
+            {
+              "ko": "신규",
+              "en": "new",
+              "note": "Used like an adjective in 신규 고객 (new customer), 신규 출점 (new store opening) and 신규 브랜드."
+            }
+          ]
+        }
+      ],
+      "url": "https://github.com/ganeshapp/teum-assets/releases/download/sentence-library-v1/work-074-v1.zip",
+      "sha256": "a9bcaf539ea8ffb6fe4a08343d37d6014c873ed568182c2ef914aaac59a9d98c",
+      "downloadBytes": 6252338,
+      "installedBytes": 6454933,
+      "files": {
+        "audio/0066628ccaa6f2d301872d1591827ccd272c68e56191c5c4435ede516612ecc1.m4a": 50538,
+        "audio/01228cd7f3ff6a8c3ac74ff688f5fde94a56b3cd1a20e5323c06063096a68f58.m4a": 51650,
+        "audio/01508a4b9d85b759682ce07dce51185b7b8e8184dc5eea0e363e31c802c9440c.m4a": 73601,
+        "audio/025c95d88d1e3ad90914ce4c4b193ac2f301e4266d9fc662def21752dc25c2c3.m4a": 12420,
+        "audio/0320c2c1b61165fa9334f799867a270f1f3265c3e41e60349952537c5884985d.m4a": 20656,
+        "audio/04e9a79c61df67663539be5fe9adfbd6f64158cc0322ac91964444f0e5c2b1ec.m4a": 19459,
+        "audio/0792462a4ac84805f599c78180c595c638b3794cc392c63438551e35fdd85f88.m4a": 13321,
+        "audio/093ef1ec94619a44523168a11a115ae5fdbcb2a7e995b57f3594a650a5754f62.m4a": 22106,
+        "audio/0a865ab5808634bd4696506dec5ba537510691b7f5c9a246acd1e42eb9f1ea96.m4a": 13231,
+        "audio/0acbfb6cfb35d903968cb1761ce22c8e19cfb1ad60b85ac9fad36c8d50483136.m4a": 55175,
+        "audio/0af278b8d6231689984a1b5753db6eb5e58b99d57729ef0ea072d54424875ea1.m4a": 36234,
+        "audio/0c28f85a0de6475993e35a2b0aa70d2f7b18cdeda545177eaf0ffebfba2e1bff.m4a": 12623,
+        "audio/1189fc0dde667127142bed8d78dc2d06b9d5bf7770800ffce87e2dce8d896883.m4a": 22149,
+        "audio/1467458c4de16de70076ef1985921a918eda5dd763d203703d2110fd0abefe78.m4a": 28104,
+        "audio/1478bb145bd8f5f76e7a88d21871910cecef85db2dd9c2b0ad6b387694f55042.m4a": 24235,
+        "audio/164e8d533cb9e0b944995812ecffd2e084d78107059724437350bc96716e1f3d.m4a": 13703,
+        "audio/1652f27fd9ecf380450864bc68710ed8dbc96b470cc9c92f01bb1a5a9218eb2d.m4a": 13804,
+        "audio/17f7519b7502061bde793e780dc5bf875f100b85ccb2eae32c6b3c7656dc548f.m4a": 17483,
+        "audio/19cfa0ca6ba04ae69c9caf584b663687cafeb175359d59db28b7d7ca0fe4da64.m4a": 17729,
+        "audio/1a7ffcb0fab4544df885560e5dbee2e823e06f0764cd5140e840588697cd1d93.m4a": 48517,
+        "audio/1aa6a825929172a9b53988dbe4cc2d89a31b3b0a5e025abf304d3903d5bf24a1.m4a": 42860,
+        "audio/1bd1103377d7dadbc3be639300cfed5babec01397eacf470cbf0b01e8ab56646.m4a": 45880,
+        "audio/1c57e5443cf6f5b6e2a35a0adebdbc9819f478f2462fc0ca4e9efec2dd34e393.m4a": 39070,
+        "audio/1c67463a0561c6983aa1a5d9f66fad23ab01cf0c0af8e7b81b7e7cb4da27b48d.m4a": 30739,
+        "audio/1caaf99cf5a5369691a806ad0e3346e9bba49f44996854658b95256b976e1d99.m4a": 31319,
+        "audio/1cd2799f35a9d51c1a86f48ce8fec661610359982c0bb412ece76e54f69c575e.m4a": 41880,
+        "audio/1d404c7cffdb0786b0a6bb7e29383ed4ff98a23ada2c1d35453f2d3fae105672.m4a": 63032,
+        "audio/1d9e2130749795a50be046c86e0221b688b1cb82931353a8e94410bca251b505.m4a": 17981,
+        "audio/1e4db501c03c79e5364c18a4aa47a11b4d612d71decf577ce1b4d903ecf11d40.m4a": 23244,
+        "audio/2081a11828d39266a089d1b04a3e3e13a5d99e43a98a6aa693332236911c2de0.m4a": 13641,
+        "audio/20c7397d3846c9363fb75955f1e510de687e4c3f3e680737ba58c319a684c2d2.m4a": 12991,
+        "audio/227c6010f9320db6bb053ecf07d34b270304f1ae94484fcfda1d942b15713b3d.m4a": 13475,
+        "audio/25253148204b745a8a2925ef5641301999c3f4bbf28a0615b9325ba91752b4c8.m4a": 16782,
+        "audio/2667e87db375abbafe5c977a678112b49005da10d86a8fd26448314268c90612.m4a": 33543,
+        "audio/269e11b45ad26957e9aa5496843b7d974355149df59ef3932c93d02beb856039.m4a": 57925,
+        "audio/28a7ce50a082865b9f15c4455b08abf05091fe451897f0b28ae9fb6ea13e0864.m4a": 20773,
+        "audio/28e1b283740c4f10c81dcfd7143115400450a0d4974430586f1ddbc3f9b70c5b.m4a": 11669,
+        "audio/2af9cf33e509bb5598de3fcc13c03fb3669ba7adb6162bf15a385c62807b5ed1.m4a": 36774,
+        "audio/2d443164d842ae47dfc728c0a977c33863521b25e0a0ded4052a36ffb9233f5f.m4a": 12951,
+        "audio/2db6853a43e817a98bb374efafbecc5a5b9c91bfd28e55525048d6ef9d0c6440.m4a": 101023,
+        "audio/2e0c293ee50cbc7eb09efd7a4aff126861322f05f7f47c7aea94ed9b56a4add2.m4a": 29998,
+        "audio/2e6d13ecd0e0df2a3472b5ccd87dbf7c942108123c7908ae61ffabe814f8b83c.m4a": 22556,
+        "audio/2efdcae862b50323b4df5199219d3f064ca9126709fd46f030a2efe61afbea69.m4a": 32409,
+        "audio/306b2f8c63ad5210215abb3820c186b3f5fb1e18d8bf8b7d16caaf8065d2f3c9.m4a": 12209,
+        "audio/308b482e1b563bee2fc89c480538b8dc7f2aab916b5318df87d4af7493c653f0.m4a": 45700,
+        "audio/30eeea3ab9f05aec3e282b6d9b06f99def3e74c3329af2f7bda2d5ff3f38424e.m4a": 37079,
+        "audio/316b024bea9925a0940b31056cb233c2043f5be6456e8ef11764b664544ec8ba.m4a": 52277,
+        "audio/3191bbff91b90b55ebd1105baa1fcd0796d9e3cc1feb6914069a1c0159f8139f.m4a": 13257,
+        "audio/33be2898eb8618eb62cedd6167028415324ce07db0c1965e9fd4f372bd3dd297.m4a": 13478,
+        "audio/34f20042a1039d5a63eae73ca9d79e2741a32081abf19d1c439aca6343fb0737.m4a": 13817,
+        "audio/38d71f2dd15cde0c1ec4bdae2ea6c06565edf5706e5e5f5572f779300e80e7fd.m4a": 30482,
+        "audio/39a537e3e7738bab05d9cde927bdf5c549b1990aad256413787a00ed7aa2f548.m4a": 10300,
+        "audio/3a611b267cc16cffc10255c2fea7b9955d8ebbf0c6438f94b2eba109345ee224.m4a": 52248,
+        "audio/3b13001c4b39261e1b765530ac4c6e109d0dee540f3ca6da4d6fd967843e1b13.m4a": 67994,
+        "audio/4104235dcd369ea301c23fd0c1a66613928bccc726961afdff0985ebb70b0196.m4a": 16669,
+        "audio/4250d6ff531d99a4559b22b10af3fab84c935b7931359a144673f6f96ec55dff.m4a": 36431,
+        "audio/425f6b22f5b62975114eddf97c389fdfd9ff7ffb5bdff233e9a8c37d70291d11.m4a": 57768,
+        "audio/446110d54c7c2d624ddbe1f92fe28c3c6748f05d8eea69eeff1cf8b83fcb6dda.m4a": 30617,
+        "audio/4482d164f92e954b6f2261fc5786de96b16e75dac26487c7f9a756f2d317fa30.m4a": 12295,
+        "audio/457fa2b9184ff6c7bfe1a5c837ac073bfca7c0beb11e76b4f3ee4c0d0aaacc8a.m4a": 46232,
+        "audio/46e92097d566531fc0a940592aa0bdf3123f7012c9c96d506575150ed495ff82.m4a": 30978,
+        "audio/471777c033a7a7b1911dc18e36b1b472111d469bff2b9f8da4667f6c8aab676b.m4a": 20228,
+        "audio/47241d95ef28ed6ffa06ed2c5303161ce0d5649faaa3e93090e831eae775bab4.m4a": 13164,
+        "audio/475838839a461dee8ade23f5ab30fdf1087e9029cb2a29b013aa1c3213ba72d1.m4a": 12153,
+        "audio/47f63876f47a9cda7707fadb9fd08fd0d34f6302c6fe085c98e6f18eafc62ed6.m4a": 40255,
+        "audio/4c4d791b05fd4cc9a23634c2162a8e3e75c36443174ab92ca6b8463e8291ebdf.m4a": 84319,
+        "audio/4da0e6166dce50d88a6004554a43b62796cdad3116355dcf7d33342792c58bfc.m4a": 12101,
+        "audio/4e05431349696e73152eda2a0f8c9d9bcfbb9208cbc3766efadafbda289c5224.m4a": 25841,
+        "audio/4f5f1b39a79148b640dbd1d3f471290a14b69e1dcf470b0dec2627c77946d85c.m4a": 47175,
+        "audio/5171e2c9b781940ff6d3f0292c436f2e35ccce779083fe1dc3bb43db1b6aa840.m4a": 12503,
+        "audio/5227a80caf20db9493b73c6785bddef41aac2cbf66fa77b22ce2b2cbbbc004e8.m4a": 36491,
+        "audio/534533347c78d03423290d46eab197d289cb8f6c6008d85d38da46e8d1b78bac.m4a": 13946,
+        "audio/53a9b258e214d61d4857fe567aba5c2c92abc506db905310f065ba270fd63714.m4a": 46460,
+        "audio/55577405471c786ae2beb350297bc19dfb42b2601afd5c5e3f039d8bba269745.m4a": 17294,
+        "audio/5759842f5c8d19619be3cb1482ddcc664081f19e441a0a4ed6941978ca321fae.m4a": 13322,
+        "audio/5a4365e2ddd51508f209130c04e9a359ea4ea07d621545fae7a6507706eb86b4.m4a": 11799,
+        "audio/5ba7570d3dd1a177061604cb473fccd0a975dc3dc0b2bb02e32d8bd5c992a0d1.m4a": 13022,
+        "audio/5deb84393f884aece661e22f1669722884cbd2d99ce3e5bd29f81e9a407141e8.m4a": 68350,
+        "audio/61b7f7e8805c22b3d68b97c1ac559a9df18a5c0881b63aaeb68248a7968e7ab8.m4a": 12973,
+        "audio/6261bd1734e6e80b63c18cf36c31bbf22b787691a21604a0a2aef88fbcc10b1d.m4a": 11615,
+        "audio/637448749b23b0e4deca313fc2d09b6ca1b89fa232441bece97074cde030a2f4.m4a": 14085,
+        "audio/64abf0933e0a020819f9d78a7299ff4ab2589f91d68d4ddbfcc63058b806057f.m4a": 31936,
+        "audio/64efca26ad0b315776dafe0421658c4103e5bd32a70863ac67265b69d24c4f94.m4a": 20403,
+        "audio/66560481c308cb71a638228ec465e1d38749ea744917bc58b990ad5ad07b0093.m4a": 12496,
+        "audio/66637f192701b17df1435f361bd75509111b0c8038a713dfa28c4c97119a951d.m4a": 50265,
+        "audio/671b4be41ba84c82f9bbf480fb3c360c5e884eadbefd3ef9610a9f586c6522e7.m4a": 12482,
+        "audio/68c3162139929e457d7d4b94a41c5e1eda88109de85b8f146445a7d2671c7438.m4a": 27916,
+        "audio/69eeac074aa31c9fb45421b2e6b5fe4bf71808c61ed3b68dba3b613da3f33064.m4a": 44146,
+        "audio/6a011235b3b96657440588eb32df99d8b45e076bb077adc68d96cf4d1c4b614f.m4a": 16197,
+        "audio/6b322f2cc7e8a690c552199527ee0461d03df26ffdc066c6acc40267698ea29e.m4a": 12668,
+        "audio/6b3d71eef4dfc8f6bf8a8596b740bebb4b898406535321b17246ecddccad74a0.m4a": 11548,
+        "audio/6e5f7a8dd1a31bf8e9d33889a7905f21534d228d6f196dbb9836b458470dac9e.m4a": 17529,
+        "audio/6f3fc50e2f31f021c67a5d73135ca464eb06a43d3964817f4701b610f49c17e6.m4a": 12250,
+        "audio/70b056e831fe493c5e40b8844fec0fab1d263ba52f30d3944ebc2e5b94464a45.m4a": 39747,
+        "audio/71049f0d2df72385b43bc1a191519d416cc2f12c5e3cb6ef791ad2516ca2d172.m4a": 12020,
+        "audio/7276fa845fc5bfab28f6c41aa7646f5f962706bc367e8b7514ffcb305bcdebbc.m4a": 101269,
+        "audio/72f81b42cae25f1b87bc44fb76d73d3d7201d7ee0b3027f5512204891229ca37.m4a": 52810,
+        "audio/73357a89d4be51f32bf25cfe4e9dfb9ab4664b16be6610b9f46997130c37540b.m4a": 26641,
+        "audio/7360bd50e33043322e514cdaa3da6bf6466ec9f692f353e84018f114bfcd23f5.m4a": 21247,
+        "audio/75698cda462a762eec7ca814f31e1985b2be26db5349c2b3cf2ba9966cb6410b.m4a": 39482,
+        "audio/760537846be43c6e778886179cef86b61764bf4398ac97bde949d337a4679b79.m4a": 12301,
+        "audio/7773c74ec6502df9d27ed5dcb1db2c2edcf263df749ff6fd6b0e9fc949fdc47b.m4a": 20406,
+        "audio/7808cf22fc29c4566635ab9fe94eb5fa545899262609be47039a5b18192f3bec.m4a": 49336,
+        "audio/78c9f066ff199afbdf3fe4f419b1ad8e8ccc0d7e188c56f285abfbeff6d420cc.m4a": 27598,
+        "audio/78d8518fbc1fc251885c044f36721848394b3a7242aaaeb961ab8f9acb22fd13.m4a": 65644,
+        "audio/795fd77094f4aba31fda441ea728acc6b5bb6f610b4baf524c1f4c3edfad9ad3.m4a": 12382,
+        "audio/7a17989fb5c3c3e8577017d28d86dd61dbd2061a81b05d211eee886d86b3de15.m4a": 12939,
+        "audio/7a743d3d4ae1085c64043f1ed0d288d54bfc1cc3fa8c5de62f6c0cd234696a5b.m4a": 46044,
+        "audio/7aae22a5bed8aaf2299ac32016a983e82c46525413dd625691953b8e42b256c6.m4a": 14106,
+        "audio/7addacf6b47659fa959445d48e3afae7cc032a26875341e0c939103e5db0bf9d.m4a": 22535,
+        "audio/7b2cbc90b873fa420ec2bcebb73e617c2821e9f6701728fff7fdf494d76c37b3.m4a": 37204,
+        "audio/7b38384b7edee7dfe52397c3d886c756c63bd7c25c9e7445173a0f7c737a3a26.m4a": 15423,
+        "audio/7bca219b1499c8f6cd4ed1d9a30448248cf1613dc89b36a8407150fe0b74dd48.m4a": 35935,
+        "audio/7beae68c0390d0ee14c19e50cc3bcbec0ff9d408e79155327fd3b971abc07b50.m4a": 30812,
+        "audio/7d171d8126b5d00d218d85b8681d79fdc4bc520c12ab887b068ec8299f26bcb0.m4a": 25101,
+        "audio/7e95e8b8fc61e826b9fd31881220606442fc489521ec44050a73c1c98d4ff0b8.m4a": 13689,
+        "audio/7eb0012415084cfb8ee5e9a086de11859f327a1319ac5868c857b4f5b839ee10.m4a": 13110,
+        "audio/7ed107b938c51665024000d5f3a011bced1b3c6c9245cc6180c56b8191e91375.m4a": 13913,
+        "audio/7f4d8f1c1e3334f4868466accdd5a322ad5d5a84d4dc261f609e0c580a7ad1bd.m4a": 11427,
+        "audio/83f7492128dc30c922fbd5a334895c4c07e73f8311b847da7c1e1d8b6e33c946.m4a": 16796,
+        "audio/84ebf1df527d2ba1ae1654e8aac4771b1f6010a7b7e89a7909b0729d70818cbf.m4a": 22666,
+        "audio/84f72c3dfb985b872a1d91fb34b7228d7db26e513f824a5c454d8767e4a3aaca.m4a": 20277,
+        "audio/854a04aa22755b4f706cd1fcd471bae0c53a279dc62d35f040022678ad41e680.m4a": 21799,
+        "audio/8550a736652d29c496f3e63866c646a1f06456baa7895d6e413d027fa9c48045.m4a": 14221,
+        "audio/85678c629fd2b503366e1c84ee268555b38866a86191d84dfedfce3ac40dd42d.m4a": 26742,
+        "audio/862b7079b3095e974354bd147d28fcfb6ba479ea83114b1399ab0ae3b141bc10.m4a": 23621,
+        "audio/86ce9f82a00ab6e49cf7a37f70cac558ae907efec027ea9d2ad13b9c908acf7d.m4a": 29121,
+        "audio/8778390ae0404045c08fb794313f7cf3a7848d8f58581a83743f2ee1774b6626.m4a": 13028,
+        "audio/87c6f9bd4493da8ac88db502ab560cf28c92cfd1d34d3587301f002e32bfce96.m4a": 19219,
+        "audio/87fd7bd341ba655ee2ccea15756005cb194d280d65f5d48604708355d4eb3d44.m4a": 14264,
+        "audio/886186274cf5fc9958c3f0c2289884693482b01e0610095e92e5feb926ebdeec.m4a": 12976,
+        "audio/88b260d14b2be58ef38d4aec8ba67274c6bf6c12c620a45a473de5e7d8ea73fa.m4a": 48581,
+        "audio/893ca2621c37bf7456fb0aa85ec2288ac90380fdce6180f8ee16ce8fb7c94264.m4a": 34727,
+        "audio/89bdd6775254a05f8b11cce4a97f169b089c3bb02e1a219c81a9ff31a3a63af0.m4a": 21646,
+        "audio/8a71b5c9230575210c60508ae17baf99f3fdcf02a2fa24fae8a6ffd48ce3ea19.m4a": 45950,
+        "audio/8b6ebfc8b44f7854ac2cc69c5217a3b558d777f831c0528d3448a26c626f2a58.m4a": 54946,
+        "audio/8b99fefd9db0041c0135a22aedf7625d8b7d0cea01bd5b0dc965e05158a2bcef.m4a": 26372,
+        "audio/90863779515ad7d78b5f0ab971a9c5161b8600eb3add5aee27db22581533ee6a.m4a": 15312,
+        "audio/91b8fc450c75282f3f98e4f7d945cbcf40dc920af7c6455d9ad541ec7b5f07d3.m4a": 89036,
+        "audio/91f33137c349073ae13f0116102a6a16cb741dd014a94e36c73ca162d5fc7e2d.m4a": 12528,
+        "audio/92b88266cdee893ef4bc97ce79b990cb8dcaa1e3706c18965cb02f3abb5d0583.m4a": 19593,
+        "audio/94d0d8b91795fa64e99b22638613314d040b5fbfd037d675cd9d3f4b5c05ffab.m4a": 12856,
+        "audio/965c69bf47344868a1f48eb7cc5c7110db33ae60fd1f0f58f4295f74c7c6606a.m4a": 18428,
+        "audio/98c2817bd381bb78310456bd1742e3b0d6b701cf35eab24087a54b05e40689d3.m4a": 33045,
+        "audio/994f58179c8878d636cfcc41fccdd04fe63be9a4d0db6212973d3f142f2871f3.m4a": 37360,
+        "audio/999338e6fd6361b097827118925528127e72b4a6c7f8b9cab690445e66b627df.m4a": 23651,
+        "audio/9ba0c1af8321ad8586b1a888b00e51ae04d6796605e89fab4d629f943f83c35e.m4a": 21593,
+        "audio/9be6b9c0aee4b35427f885bf2c25137fc0bdf47e46d9869e4d88d445ae7e0bc7.m4a": 21329,
+        "audio/9c5fef4d36db44d26ed455215ccd46230fac452c52e8c997ac81586f5a2d7dd4.m4a": 27551,
+        "audio/9cc5ca239b9f189cf2e894073a4736ee0543f5ec0075a73508faf827d5df1d61.m4a": 51927,
+        "audio/9d0ca2ce805376c7b7fa3e62089a0a97d63ca484d84ea13fbb1299fe9fdb9618.m4a": 13945,
+        "audio/9e592c511aba34ad1b64ed5b40d3d09787f8ad483bdc64de55fb68ba2c4849ec.m4a": 33695,
+        "audio/9f8c0e487bd8cb7bc6cf792744cffbdace242fe5171ecc6d29ab0f638be90c85.m4a": 60358,
+        "audio/9fc8feeffaf5928067b3b3f62967691118e248978c58d595a7788c9820ed9bd3.m4a": 19157,
+        "audio/a008f1fcabda97ca85b607b684eb93b00dd7451cd84c91341e1f9c1427a4b73f.m4a": 65850,
+        "audio/a1c8f3d5dc7baf704a87bab400cb827807d2394c1ded143e1621fc64cc894f22.m4a": 48866,
+        "audio/a38672d4aa0417b5321a39f1610adf141500c712c76cfddc56fc5debf43fbc65.m4a": 37581,
+        "audio/a3df8f61e05304b4817bfee6fa79fd92d49d2b67b248fb9481b7accbea98a4ab.m4a": 11839,
+        "audio/a42fd82d71a5688642eb2820ce78e9e027cb8e2f6eb3e83dc3ea53409a678ad6.m4a": 43479,
+        "audio/a5ca585cd79973663eff09386f6014e015e1294e4b254a3e11ac386081807f7e.m4a": 16332,
+        "audio/a76a19935c9187f9f74d5c791fa6b941c0ba7225eff36d5757814c1a547ac4c2.m4a": 52524,
+        "audio/a9640033ce56cd154d006241056f0a298df90334f1ed92021527f1f337140503.m4a": 20557,
+        "audio/aa924be9048ebff17a7f897bdca6fe70bfd7c29c2b13c32f0460eb6bb1e453bc.m4a": 16523,
+        "audio/ad0d5b4fb6b45aea5c3f9417f1338015bc723324b74c14dfc6833a9b4aee36b5.m4a": 19428,
+        "audio/ad3eaecf60c61aacd49863b417e0c495310d9abb3264a10f02bccabc9b5e29cc.m4a": 11533,
+        "audio/ade6cc9575a6aa59655343a56c1aebfe8d0cb59e232eb5faed038fcd96273132.m4a": 14882,
+        "audio/ae10b09ac5a006b1fb10c9efd55c118b72c05057bee8ae8f9fa799fa3c1c22ac.m4a": 59595,
+        "audio/b12997dae05faff95d67dc72642f7ce6017020b10b3dd146c02a6676d1fa65db.m4a": 23606,
+        "audio/b18bce1798c8d91b4c6ee91d691ea633434b93f849010581bbbcedfbc50e38b4.m4a": 43259,
+        "audio/b191d915e7badeaea00e3b8b1a6fbd33da61eeb2be397437d0b23f37633e9094.m4a": 14115,
+        "audio/b1d4023400993e631992d278d643f63c3fbf4109d54fb38c2187d384de4aef27.m4a": 14847,
+        "audio/b2bea25a8ca814437089019575afdae3ca5525a25f01c766f2252e49741722c8.m4a": 18938,
+        "audio/b53658dff56ec42953bb73dfd2ce0a79a9662e2b11b7ad2047b6fcffda0a0ca2.m4a": 12228,
+        "audio/b601c19926a57a7063acef58aeec36c4e0362e642be5dc42730d1a72eab2e48a.m4a": 38181,
+        "audio/b60d560b6c4724f045ced6c7b4b3805bc89b5dd647f13684fae3ecdf9262716f.m4a": 14884,
+        "audio/b740eb5e24a034465cdee6c5096bc6a609423ebcb3b47170af5e92bd3fb750d3.m4a": 13776,
+        "audio/b76e0384bf009833b34a8ddee79992e158785a4b5854c1119040c94076306b8f.m4a": 12038,
+        "audio/b99cf9f848995789d8a602c0c73d0158809a78c6a47273708ffa7cf9d69e2637.m4a": 11245,
+        "audio/ba7bf1cbe44c7b14e68a9543a1538552e868b53af353f6e2e27eeb3668d85e89.m4a": 12560,
+        "audio/bb982537682b5d06647e3f44d556f942a57404fffa0aad08fc5d9c15919b5f64.m4a": 30179,
+        "audio/bc0f0a945ec23b785561c2bb7797cad6102bd0a6d0dcb886b4fd3009d404a0d1.m4a": 19621,
+        "audio/bc6700aef94d044a93e8f731dabbe28c8b7ab4e2571fb17a98b024f834ca7298.m4a": 13940,
+        "audio/bd81f2394bd56ba60b8f351aacb96d01cbe3213595ac14259b5281f51bebbb5f.m4a": 13622,
+        "audio/be680c5696da0db1b6555330eff301e559a1f38bade19ce4c16f40d22804b022.m4a": 17370,
+        "audio/c0691bb0c39e38a3d5b47c6d7deeb66b57c39a3d228122bd552c680fc4d2d49a.m4a": 18424,
+        "audio/c4ed47f37d37a50671aff674c444eb32e1d6cd1328097595b9a21b8cf8ff9d71.m4a": 12021,
+        "audio/c9e2aa556483d14c40a10418613cf04dd266996a2a6f9d28eaee1ea3ba02f3b4.m4a": 17037,
+        "audio/ccbd8ab03a1406ed754fe38efb7a3f2fb7888bb2c45c416e744607b08a35bf3e.m4a": 54925,
+        "audio/cd744f5816c4cab89d5633c8a77d14651730ac9ed177562c872f412e4464ecaa.m4a": 12335,
+        "audio/cdf76cef08dc56242fe9f08ee0351ccba7d94c418888ae38f0028c6d67c6ec7e.m4a": 52495,
+        "audio/ce09da55532a530ff717ad924fa9a375c0371329b5b59bbf6b843dcde3c40302.m4a": 29875,
+        "audio/cf2cb0b11ad7a190a405f22144800f5dd0086db157c85bcfa6a3d193de5b9b0a.m4a": 23559,
+        "audio/cf5729c5c07e0ce5137af8bd9ee87eb0ce794babeed9fc8ca941061021f27d96.m4a": 48139,
+        "audio/d0915d59cc0881efbbf0c69048a5985ea43a7438d2fd01eed3b3a64e63bd638b.m4a": 10950,
+        "audio/d10629d4248fa968c02544b5d1df6c26a980aba525658ffcc66719394e6d87ff.m4a": 33636,
+        "audio/d7cfd513150f3bb54a38d0f0e10e81653af76b5a2689cc325373b664abb7375d.m4a": 49965,
+        "audio/d8f24f99df2e11fa90764d004f31717c84672b0a0dd0842db5163310cc4aa040.m4a": 22547,
+        "audio/d9f2c1377593abcab1bc57be5bbea1a287db15df1620bbde9c9e97e00370d8e8.m4a": 35251,
+        "audio/d9f6e0252e5d8167ea8c78596d0a67e3e72b0b548d57f1abbf29f7c1bf06d833.m4a": 30602,
+        "audio/dc84963b024ff8211432ee164206835540271d4539f05285289d9f81f69bfe69.m4a": 17283,
+        "audio/dd1cf1f1eb84af11389f74d36b8690ff690aa47fc400777458d1ece129e6c5d6.m4a": 13132,
+        "audio/e196bf27fc59e94170246fb4b58fc6cbb6bb7ee36017b47bec5250e1c5edfa2b.m4a": 19893,
+        "audio/e2d8c2962afeff82a8d28a4e33da4dcf693145011657ee2e85f215749ff3b73d.m4a": 76806,
+        "audio/e4d5b6c37a04d1d0c0603127acc0b55cc3a2fd551cf7fae7c37b734d30589514.m4a": 43177,
+        "audio/e5445b07a5e2ad20d0bbf5eaaee91615c409cb28ddd3d79f9bc485571ab5ee73.m4a": 24830,
+        "audio/e6074749dd96fbf6d647a9e711e970481bb25b7f1b8c35c8257c644e57fd6678.m4a": 22481,
+        "audio/eb8e7c0f3721413720ca889270564935d94a0fdf04eb93c1b887b85bfa5abea3.m4a": 14902,
+        "audio/ecab28d8b3f8f0b59603dfa3f72237bafa98b7dd94bfa596a59c04b71c9bc653.m4a": 36152,
+        "audio/ef7ada59c5b159830a74a7bfa81e8ec86362e0b9089d9bda4059d73f867432bf.m4a": 14576,
+        "audio/efb973328a5384e8b2005013aecafa4183700c3cab44f55498af35c2ab5f7725.m4a": 44405,
+        "audio/f1bd39b799ec55ccddf7108d22ce9c604f7865a05fa8fd437b18089ae1f5223d.m4a": 39657,
+        "audio/f1ca67b94ccd4230590d43a8eaaf63da92c98c9723dabb6394881ffe8742fc66.m4a": 30367,
+        "audio/f2b9d55e0c7433ee55975b5264475273b22297efeb1ad740b645d06c9b27b85d.m4a": 46848,
+        "audio/f34b3b7ba37ced0a892c8031c9caf2eaa777aa956f92a088aa932f0b526a61d0.m4a": 14342,
+        "audio/f463b7e154b41d098107ee9109c3fb260e188bc290f565494d14c2ff0f63e2c9.m4a": 38524,
+        "audio/f46b29607959e556600f8bebe6a795878cf55f84e8d932dfcd71091b2dc7675d.m4a": 16798,
+        "audio/f5bb122121a4c18b6f87c0d9e8d191464b8f7d1b78e68a630b24735f474a0c14.m4a": 45382,
+        "audio/f6951cbe6bdb78936038ab710d9b434ee8d56d3ac6740d7e7e1c9e2b52ea2b7c.m4a": 59216,
+        "audio/f98504e2614a181ffebea2377580d37f96ca8eece797a725b83d999d58881868.m4a": 13443,
+        "audio/fc17c307ec87a74a0dd4d20f88e335276e8480b613fee5fb611a07643f14f45e.m4a": 76296,
+        "audio/fd93d843ef55fa57e229b6ed213a44d8770e3150d623cf2a7b18b4c0fca24805.m4a": 14486,
+        "audio/fdc3386cf7152806c7025faefa981d9c973ef72f450a610c4733ebe6242cb52e.m4a": 89325
+      }
+    },
+    {
       "id": "voice-supertonic3",
       "revision": 1,
       "kind": "voice",
