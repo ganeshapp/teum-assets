@@ -24,3 +24,11 @@ The app bundles a catalogue snapshot and a tiny first lesson. It only checks thi
 ## Voice notices
 
 Model: [Supertonic 3](https://huggingface.co/Supertone/supertonic-3), converted by [sherpa-onnx](https://k2-fsa.github.io/sherpa/onnx/tts/all/Korean/supertonic-3-ko.html). The voice ZIP includes the model's BigScience Open RAIL-M license and upstream MIT code notice. These notices are also available in the app's open-source licenses.
+
+## Sentence library rollout
+
+<!-- library-progress:start -->
+**100 sentence lessons in 4 packs are available now.** The full batch covers 5,314 lessons in 213 packs. More packs are being generated and added as they finish.
+
+Requires **Teum 1.3 or newer**. Open **Your audio shelf → refresh** in the app to see newly published packs. Download only the packs you want to keep offline.
+<!-- library-progress:end -->
