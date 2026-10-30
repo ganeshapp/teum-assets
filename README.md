@@ -28,7 +28,7 @@ Model: [Supertonic 3](https://huggingface.co/Supertone/supertonic-3), converted 
 ## Sentence library rollout
 
 <!-- library-progress:start -->
-**2,900 sentence lessons in 116 packs are available now.** The full batch covers 5,314 lessons in 213 packs. More packs are being generated and added as they finish.
+**2,925 sentence lessons in 117 packs are available now.** The full batch covers 5,314 lessons in 213 packs. More packs are being generated and added as they finish.
 
 Requires **Teum 1.3 or newer**. Open **Your audio shelf → refresh** in the app to see newly published packs. Download only the packs you want to keep offline.
 <!-- library-progress:end -->
